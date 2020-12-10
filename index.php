@@ -1,8 +1,8 @@
 <html>
     <head>
-        <title><h1>Aprender sempre<h1></title>
+        <title>Aprender sempre</title>
     </head>
 <body>
-    <p> hoje aprendendo CD \ CI </p>
+    <h1> Hoje aprendendo CD \ CI </h1>
 </body>
 </html>
